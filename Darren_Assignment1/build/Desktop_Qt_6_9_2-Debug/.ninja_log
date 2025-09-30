@@ -1,0 +1,11 @@
+# ninja log v6
+3	477	1759247517268338164	Darren_Assignment1_autogen/timestamp	f6c72d21bf3caa7e
+3	477	1759247517268338164	Darren_Assignment1_autogen/mocs_compilation.cpp	f6c72d21bf3caa7e
+3	477	1759247517268338164	/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/Darren_Assignment1_autogen/timestamp	f6c72d21bf3caa7e
+3	477	1759247517268338164	/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/Darren_Assignment1_autogen/mocs_compilation.cpp	f6c72d21bf3caa7e
+480	3696	1759247517279338177	CMakeFiles/Darren_Assignment1.dir/drawingcanvas.cpp.o	435a832787164ab4
+481	3795	1759247517280338179	CMakeFiles/Darren_Assignment1.dir/drawwidget.cpp.o	a4df58add4079890
+481	4721	1759247517280338179	CMakeFiles/Darren_Assignment1.dir/slowconvex.cpp.o	32efb51ea3dffd02
+479	4775	1759247517278338176	CMakeFiles/Darren_Assignment1.dir/main.cpp.o	6b6f11bd91c320ca
+478	4847	1759247517277338175	CMakeFiles/Darren_Assignment1.dir/Darren_Assignment1_autogen/mocs_compilation.cpp.o	f419610d254b6f1b
+4847	5213	1759247521646343586	Darren_Assignment1	61b578a9c003aec9
