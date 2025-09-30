@@ -23,9 +23,9 @@ void SlowConvex::slowAlgorithm(){
             if(posList.at(i) != posList.at(j)){
                 if(valid == true){
                     for(int k = 0; k < posList.size(); ++k){
+                        counter++;
                         if(k==i || k==j)continue;
                         int Result = SlowConvex::crossProduct(posList.at(i).x(), posList.at(i).y(), posList.at(j).x(), posList.at(j).y(), posList.at(k).x(), posList.at(k).y());
-                        counter++;
                         if (Result < 0){
                             valid = false;
                             break;
@@ -40,11 +40,11 @@ void SlowConvex::slowAlgorithm(){
         }
     }
     update();
-    m_drawWidget->iterationCount = counter;
 
     for(int k = 0; k < E.size(); k++){
         qDebug() << "\nPoint ke "<<k<<" adalah "<<E.at(k);
     }
+    m_drawWidget->iterationCount = counter;
 }
 
 int SlowConvex::crossProduct(int Px, int Py, int Qx, int Qy, int Rx, int Ry){

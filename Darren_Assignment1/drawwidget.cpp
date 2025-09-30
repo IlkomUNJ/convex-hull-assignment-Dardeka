@@ -18,7 +18,18 @@ void DrawWidget::paintEvent(QPaintEvent *event){
     }
 
     painter.drawText(10, 20, QString("Jumlah iterasi: %1").arg(iterationCount));
+    update();
+
+    QPen hullPen(Qt::red, 2, Qt::SolidLine, Qt::RoundCap, Qt::RoundJoin);
+    painter.setPen(hullPen);
+
+    for (const auto &edge : E) {
+        painter.drawLine(edge.first, edge.second);
+    }
+    update();
+
 }
+
 
 void DrawWidget::mousePressEvent(QMouseEvent *event){
     if(event->button() == Qt::LeftButton){

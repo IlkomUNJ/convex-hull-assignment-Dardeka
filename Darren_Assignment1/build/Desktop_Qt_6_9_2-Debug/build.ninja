@@ -89,6 +89,14 @@ build CMakeFiles/Darren_Assignment1.dir/slowconvex.cpp.o: CXX_COMPILER__Darren_A
   OBJECT_DIR = CMakeFiles/Darren_Assignment1.dir
   OBJECT_FILE_DIR = CMakeFiles/Darren_Assignment1.dir
 
+build CMakeFiles/Darren_Assignment1.dir/convexhull.cpp.o: CXX_COMPILER__Darren_Assignment1_unscanned_Debug /home/darren/Darren_Assignment1/convexhull.cpp || cmake_object_order_depends_target_Darren_Assignment1
+  DEFINES = -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
+  DEP_FILE = CMakeFiles/Darren_Assignment1.dir/convexhull.cpp.o.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fcolor-diagnostics -fPIC
+  INCLUDES = -I/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/Darren_Assignment1_autogen/include -isystem /home/darren/Qt/6.9.2/gcc_64/include/QtCore -isystem /home/darren/Qt/6.9.2/gcc_64/include -isystem /home/darren/Qt/6.9.2/gcc_64/mkspecs/linux-g++ -isystem /home/darren/Qt/6.9.2/gcc_64/include/QtWidgets -isystem /home/darren/Qt/6.9.2/gcc_64/include/QtGui
+  OBJECT_DIR = CMakeFiles/Darren_Assignment1.dir
+  OBJECT_FILE_DIR = CMakeFiles/Darren_Assignment1.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Darren_Assignment1
@@ -97,7 +105,7 @@ build CMakeFiles/Darren_Assignment1.dir/slowconvex.cpp.o: CXX_COMPILER__Darren_A
 #############################################
 # Link the executable Darren_Assignment1
 
-build Darren_Assignment1: CXX_EXECUTABLE_LINKER__Darren_Assignment1_Debug CMakeFiles/Darren_Assignment1.dir/Darren_Assignment1_autogen/mocs_compilation.cpp.o CMakeFiles/Darren_Assignment1.dir/main.cpp.o CMakeFiles/Darren_Assignment1.dir/drawingcanvas.cpp.o CMakeFiles/Darren_Assignment1.dir/drawwidget.cpp.o CMakeFiles/Darren_Assignment1.dir/slowconvex.cpp.o | /home/darren/Qt/6.9.2/gcc_64/lib/libQt6Widgets.so.6.9.2 /home/darren/Qt/6.9.2/gcc_64/lib/libQt6Gui.so.6.9.2 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/darren/Qt/6.9.2/gcc_64/lib/libQt6Core.so.6.9.2 || Darren_Assignment1_autogen Darren_Assignment1_autogen_timestamp_deps
+build Darren_Assignment1: CXX_EXECUTABLE_LINKER__Darren_Assignment1_Debug CMakeFiles/Darren_Assignment1.dir/Darren_Assignment1_autogen/mocs_compilation.cpp.o CMakeFiles/Darren_Assignment1.dir/main.cpp.o CMakeFiles/Darren_Assignment1.dir/drawingcanvas.cpp.o CMakeFiles/Darren_Assignment1.dir/drawwidget.cpp.o CMakeFiles/Darren_Assignment1.dir/slowconvex.cpp.o CMakeFiles/Darren_Assignment1.dir/convexhull.cpp.o | /home/darren/Qt/6.9.2/gcc_64/lib/libQt6Widgets.so.6.9.2 /home/darren/Qt/6.9.2/gcc_64/lib/libQt6Gui.so.6.9.2 /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so /home/darren/Qt/6.9.2/gcc_64/lib/libQt6Core.so.6.9.2 || Darren_Assignment1_autogen Darren_Assignment1_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = -Wl,-rpath,/home/darren/Qt/6.9.2/gcc_64/lib:  /home/darren/Qt/6.9.2/gcc_64/lib/libQt6Widgets.so.6.9.2  /home/darren/Qt/6.9.2/gcc_64/lib/libQt6Gui.so.6.9.2  /usr/lib/x86_64-linux-gnu/libGLX.so  /usr/lib/x86_64-linux-gnu/libOpenGL.so  /home/darren/Qt/6.9.2/gcc_64/lib/libQt6Core.so.6.9.2  -Wl,-rpath-link,/home/darren/Qt/6.9.2/gcc_64/lib
   OBJECT_DIR = CMakeFiles/Darren_Assignment1.dir

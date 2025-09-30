@@ -574,6 +574,12 @@
 	"HEADERS" : 
 	[
 		[
+			"/home/darren/Darren_Assignment1/convexhull.h",
+			"MU",
+			"EWIEGA46WW/moc_convexhull.cpp",
+			null
+		],
+		[
 			"/home/darren/Darren_Assignment1/drawingcanvas.h",
 			"MU",
 			"EWIEGA46WW/moc_drawingcanvas.cpp",
@@ -651,6 +657,7 @@
 	"SETTINGS_FILE" : "/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Darren_Assignment1_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "/home/darren/Darren_Assignment1/convexhull.cpp", "MU", null ],
 		[ "/home/darren/Darren_Assignment1/drawingcanvas.cpp", "MU", null ],
 		[ "/home/darren/Darren_Assignment1/drawwidget.cpp", "MU", null ],
 		[ "/home/darren/Darren_Assignment1/main.cpp", "MU", null ],
