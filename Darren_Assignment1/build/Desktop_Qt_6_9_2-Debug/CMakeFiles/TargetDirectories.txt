@@ -1,0 +1,9 @@
+/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Darren_Assignment1.dir
+/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/edit_cache.dir
+/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/list_install_components.dir
+/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install.dir
+/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/local.dir
+/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/install/strip.dir
+/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Darren_Assignment1_autogen_timestamp_deps.dir
+/home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/Darren_Assignment1_autogen.dir

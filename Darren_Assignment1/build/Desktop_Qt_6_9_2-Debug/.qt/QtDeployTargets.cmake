@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_Darren_Assignment1_FILE /home/darren/Darren_Assignment1/build/Desktop_Qt_6_9_2-Debug/Darren_Assignment1)
+set(__QT_DEPLOY_TARGET_Darren_Assignment1_TYPE EXECUTABLE)
